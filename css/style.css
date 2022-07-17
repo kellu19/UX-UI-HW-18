@@ -98,7 +98,6 @@ body {
    display: grid;
    height: 100px;
    position: relative;
-   background: red !important;
  }
 
 #myWork {
